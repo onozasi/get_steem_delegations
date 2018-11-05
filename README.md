@@ -5,6 +5,8 @@ Every 5 minutes it is saving information about incoming delegations to delegatio
 
 # How to use
 
+```
 npm install
 npm start
+```
 
